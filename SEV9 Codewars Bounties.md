@@ -50,10 +50,10 @@ Welcome to the SEV9 CodeWars Bounty Board. This is a competition but keep it fri
     <!-- - Solution: ![Solution]() -->
 - [02-bugs-life](https://www.codewars.com/kata/5b71af678adeae41df00008c)
     <!-- - Solution: ![Solution]() -->
-- [03-highest-lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+- [0̶3̶-̶h̶i̶g̶h̶e̶s̶t̶-̶l̶o̶w̶e̶s̶t̶](https://www.codewars.com/kata/554b4ac871d6813a03000035)
     - Solution: ![Solution](/solutions/highlow.png)
-- [04-credit-card](https://www.codewars.com/kata/5701e43f86306a615c001868)
-    <!-- - Solution: ![Solution]() -->
+- [0̶4̶-̶c̶r̶e̶d̶i̶t̶-̶c̶a̶r̶d̶](https://www.codewars.com/kata/5701e43f86306a615c001868)
+    - Solution: ![Solution](/solutions/cardissuer.png)
 - [05-no-vowels](https://www.codewars.com/kata/52fba66badcd10859f00097e)
     <!-- - Solution: ![Solution]() -->
 - [06-Hof-series](https://www.codewars.com/kata/582dace555a1f4d859000058)
