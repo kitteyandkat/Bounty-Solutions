@@ -46,16 +46,16 @@ Welcome to the SEV9 CodeWars Bounty Board. This is a competition but keep it fri
 
 # 30 Points (Lvl. 7)
 
-- [01-shortest-word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
-    <!-- - Solution: ![Solution]() -->
-- [02-bugs-life](https://www.codewars.com/kata/5b71af678adeae41df00008c)
-    <!-- - Solution: ![Solution]() -->
+- [0̶1̶-̶s̶h̶o̶r̶t̶e̶s̶t̶-̶w̶o̶r̶d̶](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+    - Solution: ![Solution](/solutions/shortest.png)
+- [0̶2̶-̶b̶u̶g̶s̶-̶l̶i̶f̶e̶](https://www.codewars.com/kata/5b71af678adeae41df00008c)
+    - Solution: ![Solution](/solutions/bug.png)
 - [0̶3̶-̶h̶i̶g̶h̶e̶s̶t̶-̶l̶o̶w̶e̶s̶t̶](https://www.codewars.com/kata/554b4ac871d6813a03000035)
     - Solution: ![Solution](/solutions/highlow.png)
 - [0̶4̶-̶c̶r̶e̶d̶i̶t̶-̶c̶a̶r̶d̶](https://www.codewars.com/kata/5701e43f86306a615c001868)
     - Solution: ![Solution](/solutions/cardissuer.png)
-- [05-no-vowels](https://www.codewars.com/kata/52fba66badcd10859f00097e)
-    <!-- - Solution: ![Solution]() -->
+- [0̶5̶-̶n̶o̶-̶v̶o̶w̶e̶l̶s̶](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+    - Solution: ![Solution](/solutions/novowel.png)
 - [06-Hof-series](https://www.codewars.com/kata/582dace555a1f4d859000058)
     <!-- - Solution: ![Solution]() -->
 
