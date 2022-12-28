@@ -41,8 +41,8 @@ Welcome to the SEV9 CodeWars Bounty Board. This is a competition but keep it fri
     - Solution: ![Solution](/solutions/bonus.png)
 - [1̶1̶-̶c̶a̶l̶c̶u̶l̶a̶t̶e̶-̶a̶v̶e̶r̶a̶g̶e̶](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
     - Solution: ![Solution](/solutions/average.png)
-- [12-monkey-count](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
-    <!-- - Solution: ![Solution]() -->
+- [1̶2̶-̶m̶o̶n̶k̶e̶y̶-̶c̶o̶u̶n̶t̶](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
+    - Solution: ![Solution](/solutions/monkeycount.png)
 
 # 30 Points (Lvl. 7)
 
