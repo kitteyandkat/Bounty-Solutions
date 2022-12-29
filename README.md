@@ -65,5 +65,5 @@ Welcome to the SEV9 CodeWars Bounty Board. This is a competition but keep it fri
     - Solution: ![Solution](/solutions/uniquenumber.png)
 - [0̶2̶-̶p̶a̶l̶i̶n̶d̶r̶o̶m̶e̶](https://www.codewars.com/kata/53046ceefe87e4905e00072a)
     - Solution: ![Solution](/solutions/palindrome.png)
-- [03-unique-in-order](https://www.codewars.com/kata/54e6533c92449cc251001667)
-    <!-- - Solution: ![Solution]() -->
+- [0̶3̶-̶u̶n̶i̶q̶u̶e̶-̶i̶n̶-̶o̶r̶d̶e̶r̶](https://www.codewars.com/kata/54e6533c92449cc251001667)
+    - Solution: ![Solution](/solutions/uniqueinorder.png)
