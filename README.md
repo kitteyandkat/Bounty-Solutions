@@ -27,8 +27,8 @@ Welcome to the SEV9 CodeWars Bounty Board. This is a competition but keep it fri
     - Solution: ![Solution](/solutions/smallint.png)
 - [0̶5̶-̶s̶t̶r̶i̶n̶g̶-̶r̶e̶p̶e̶a̶t̶](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
     - Solution: ![Solution](/solutions/repeat.png)
-- [06-total-amount-of-points](https://www.codewars.com/kata/5bb904724c47249b10000131)
-    <!-- - Solution: ![Solution]() -->
+- [0̶6̶-̶t̶o̶t̶a̶l̶-̶a̶m̶o̶u̶n̶t̶-̶o̶f̶-̶p̶o̶i̶n̶t̶s̶](https://www.codewars.com/kata/5bb904724c47249b10000131)
+    - Solution: ![Solution](/solutions/points.png)
 
 - [0̶7̶-̶s̶e̶c̶r̶e̶t̶-̶m̶e̶s̶s̶a̶g̶e̶](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
     - Solution: ![Solution](/solutions/jenny.png)
